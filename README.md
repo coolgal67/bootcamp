@@ -4,13 +4,14 @@
 ## 0: Creating a GitHub account
 coolgal67
 Go to [github.com](https://github.com/) and create an account. After you have verified your email, create an empty repository in your new account, and name it **bootcamp**
-
+coolgal67/bootcamp
 # Part B - Terminal Commands
-  
+python, power shell and VS code
 
 ## 1: Our first command
 
 Write a command that prints out the string “hello, world”. Extra credit: As in Listing 1, do it two different ways, both with and without using quotation marks.
+print("Hello,World")
 
 
 ## 2: Cleaning up
